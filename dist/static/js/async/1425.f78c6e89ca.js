@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunknewapi_web=self.rspackChunknewapi_web||[]).push([[1425],{50104(e,n,p){p.r(n),p.d(n,{component:()=>t});var s=p(65311);let t=function(){return(0,s.useEffect)(()=>{window.location.replace("https://docs.newapi.pro")},[]),null}}}]);
